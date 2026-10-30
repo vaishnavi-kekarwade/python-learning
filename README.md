@@ -6,6 +6,7 @@ This repository documents my Python learning path as I prepare for a Data Analys
 - 01 Variables, Data Types, Operators
 - 02 Strings & Conditional Statements
 - 03 Lists (in progress)
+- Python fundamentals to mini-projects, learning toward Data Analytics.
 
  Tools Used
 - Python 3.14
